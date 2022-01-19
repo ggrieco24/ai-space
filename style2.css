@@ -1,0 +1,91 @@
+#corpo1{
+    background-image: 
+    url(https://wips.plug.it/cips/tecnologia/cms/2021/10/profumo-dello-spazio.jpg?w=738&a=c&h=415);
+}
+
+.titolo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    background-color:rgb(20, 113, 175);
+    width: 100%;
+    position: absolute;
+}
+.paragrafo1{
+    font-family:Comic Sans MS, Comic Sans;
+}
+#ai{
+    width: 400px;
+}
+.bottone-pag1{
+    background-color: rgb(20, 113, 175);
+    color: white;
+    float:right;
+    width: 100px;
+    margin-top: -20px;
+    border-color: transparent;
+    text-align: center;
+
+}
+
+
+.titolo-pag2{
+    color: white;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    padding-left: 350px;
+
+}
+
+#titolo2{
+  background-image: url(https://www.viagginews.com/wp-content/uploads/2021/09/cielo_notturno.jpeg) ;
+
+}
+.bottone-pag2{
+    float:right;
+    width: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: -20px;
+    border-color: transparent;
+    text-align: center; 
+}
+#body2{
+  background-image: url(https://www.viagginews.com/wp-content/uploads/2021/09/cielo_notturno.jpeg) ;
+}
+.titoli-paragrafi-pag2{
+    color: white;
+}
+.paragrafi-pag2{
+    text-align: justify;
+    font-size: 18pt; 
+    color: white;
+    margin-right: 100px;
+}
+
+#body3{
+ background-image: url(https://motionarray.imgix.net/preview-776269-AUH1rQiezy-high_0008.jpg);
+}
+#titolo3{
+    background-image: url(https://selectra.net/sites/selectra.net/files/styles/article_hero/public/images/starlink_1.jpg?itok=Rvp8IJ7J); 
+    color: aliceblue;
+}
+.bottone-pag3{
+    float:right;
+    width: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: -20px;
+    border-color: transparent;
+    text-align: center; 
+}
+.paragrafi-pag3{
+    text-align: justify;
+    font-size: 18pt; 
+    color: white;
+    
+}
+.margini{
+    margin: 0px;
+}
